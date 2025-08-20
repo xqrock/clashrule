@@ -1,251 +1,242 @@
 #EXTM3U
-#EXTINF:-1,CCTV1HD
+
+#EXTINF:-1 group-title="央视",CCTV1HD
 http://192.168.5.1:7188/udp/239.253.157.96:8550
-#EXTINF:-1,CCTV2HD
+#EXTINF:-1 group-title="央视",CCTV2HD
 http://192.168.5.1:7188/udp/239.69.1.102:10250
-#EXTINF:-1,CCTV3HD
+#EXTINF:-1 group-title="央视",CCTV3HD
 http://192.168.5.1:7188/udp/239.69.1.122:10370
-#EXTINF:-1,CCTV4HD
+#EXTINF:-1 group-title="央视",CCTV4HD
 http://192.168.5.1:7188/udp/239.69.1.138:10466
-#EXTINF:-1,CCTV4K
+#EXTINF:-1 group-title="央视",CCTV4K
 http://192.168.5.1:7188/udp/239.69.1.111:10304
-#EXTINF:-1,CCTV5HD
+#EXTINF:-1 group-title="央视",CCTV5HD
 http://192.168.5.1:7188/udp/239.69.1.123:10376
-#EXTINF:-1,CCTV5+HD
-http://192.168.5.1:7188/udp/239.253.157.234:9484
-#EXTINF:-1,CCTV6HD
+#EXTINF:-1 group-title="央视",CCTV6HD
 http://192.168.5.1:7188/udp/239.69.1.124:10382
-#EXTINF:-1,CCTV7HD
+#EXTINF:-1 group-title="央视",CCTV7HD
 http://192.168.5.1:7188/udp/239.69.1.103:10256
-#EXTINF:-1,CCTV8HD
+#EXTINF:-1 group-title="央视",CCTV8HD
 http://192.168.5.1:7188/udp/239.69.1.125:10388
-#EXTINF:-1,CCTV9HD
+#EXTINF:-1 group-title="央视",CCTV9HD
 http://192.168.5.1:7188/udp/239.69.1.104:10262
-#EXTINF:-1,CCTV10HD
+#EXTINF:-1 group-title="央视",CCTV10HD
 http://192.168.5.1:7188/udp/239.69.1.105:10268
-#EXTINF:-1,CCTV11HD
+#EXTINF:-1 group-title="央视",CCTV11HD
 http://192.168.5.1:7188/udp/239.69.1.154:10560
-#EXTINF:-1,CCTV12HD
+#EXTINF:-1 group-title="央视",CCTV12HD
 http://192.168.5.1:7188/udp/239.69.1.106:10274
-#EXTINF:-1,CCTV13HD
+#EXTINF:-1 group-title="央视",CCTV13HD
 http://192.168.5.1:7188/udp/239.253.157.161:9040
-#EXTINF:-1,CCTV14HD
+#EXTINF:-1 group-title="央视",CCTV14HD
 http://192.168.5.1:7188/udp/239.69.1.107:10280
-#EXTINF:-1,CCTV15HD
+#EXTINF:-1 group-title="央视",CCTV15HD
 http://192.168.5.1:7188/udp/239.69.1.155:10566
-#EXTINF:-1,CCTV16HD
+#EXTINF:-1 group-title="央视",CCTV16HD
 http://192.168.5.1:7188/udp/239.69.1.247:11124
-#EXTINF:-1,CCTV164K
+#EXTINF:-1 group-title="央视",CCTV164K
 http://192.168.5.1:7188/udp/239.69.1.249:11136
-#EXTINF:-1,CCTV17
+#EXTINF:-1 group-title="央视",CCTV17
 http://192.168.5.1:7188/udp/239.69.1.153:10554
-#EXTINF:-1,CCTV17HD
+#EXTINF:-1 group-title="央视",CCTV17HD
 http://192.168.5.1:7188/udp/239.69.1.152:10548
-#EXTINF:-1,CCTV4中文国际美洲HD
+#EXTINF:-1 group-title="央视",CCTV4中文国际美洲HD
 http://192.168.5.1:7188/udp/239.69.1.232:11034
-#EXTINF:-1,CCTV4中文国际欧洲HD
+#EXTINF:-1 group-title="央视",CCTV4中文国际欧洲HD
 http://192.168.5.1:7188/udp/239.69.1.231:11028
-#EXTINF:-1,CGTN阿拉伯语HD
+#EXTINF:-1 group-title="央视",CGTN阿拉伯语HD
 http://192.168.5.1:7188/udp/239.69.1.221:10968
-#EXTINF:-1,CGTN俄语HD
+#EXTINF:-1 group-title="央视",CGTN俄语HD
 http://192.168.5.1:7188/udp/239.69.1.222:10974
-#EXTINF:-1,CGTN法语HD
+#EXTINF:-1 group-title="央视",CGTN法语HD
 http://192.168.5.1:7188/udp/239.69.1.235:11052
-#EXTINF:-1,CGTN西班牙语HD
+#EXTINF:-1 group-title="央视",CGTN西班牙语HD
 http://192.168.5.1:7188/udp/239.69.1.234:11046
-#EXTINF:-1,CGTN英文纪录HD
+#EXTINF:-1 group-title="央视",CGTN英文纪录HD
 http://192.168.5.1:7188/udp/239.69.1.233:11040
-#EXTINF:-1,CHC动作电影HD
-http://192.168.5.1:7188/udp/239.69.1.242:11094
-#EXTINF:-1,CHC家庭影院HD
-http://192.168.5.1:7188/udp/239.69.1.243:11100
-#EXTINF:-1,CHC影迷电影HD
-http://192.168.5.1:7188/udp/239.69.1.241:11088
-#EXTINF:-1,安徽卫视HD
+
+#EXTINF:-1 group-title="卫视",安徽卫视HD
 http://192.168.5.1:7188/udp/239.69.1.70:10060
-#EXTINF:-1,北京卫视4K
+#EXTINF:-1 group-title="卫视",北京卫视4K
 http://192.168.5.1:7188/udp/239.69.2.22:11286
-#EXTINF:-1,兵器科技HD
-http://192.168.5.1:7188/udp/239.69.1.79:10114
-#EXTINF:-1,兵团卫视
+#EXTINF:-1 group-title="卫视",兵团卫视
 http://192.168.5.1:7188/udp/239.69.2.32:11346
-#EXTINF:-1,茶HD
-http://192.168.5.1:7188/udp/239.69.1.144:10500
-#EXTINF:-1,第一剧场HD
-http://192.168.5.1:7188/udp/239.69.1.74:10084
-#EXTINF:-1,东方财经HD
+#EXTINF:-1 group-title="卫视",东方财经HD
 http://192.168.5.1:7188/udp/239.69.2.9:11208
-#EXTINF:-1,东方卫视HD
+#EXTINF:-1 group-title="卫视",东方卫视HD
 http://192.168.5.1:7188/udp/239.69.1.173:10674
-#EXTINF:-1,东南卫视HD
+#EXTINF:-1 group-title="卫视",东南卫视HD
 http://192.168.5.1:7188/udp/239.69.1.108:10286
-#EXTINF:-1,动漫秀场HD
-http://192.168.5.1:7188/udp/239.69.2.6:11190
-#EXTINF:-1,都市剧场HD
-http://192.168.5.1:7188/udp/239.69.2.4:11178
-#EXTINF:-1,法治天地HD
-http://192.168.5.1:7188/udp/239.69.2.10:11214
-#EXTINF:-1,风云音乐
-http://192.168.5.1:7188/udp/239.69.1.90:10180
-#EXTINF:-1,凤凰中文HD
-http://192.168.5.1:7188/udp/239.69.2.20:11274
-#EXTINF:-1,凤凰资讯HD
-http://192.168.5.1:7188/udp/239.69.2.19:11268
-#EXTINF:-1,甘肃卫视HD
+#EXTINF:-1 group-title="卫视",甘肃卫视HD
 http://192.168.5.1:7188/udp/239.69.2.23:11292
-#EXTINF:-1,高尔夫网球HD
-http://192.168.5.1:7188/udp/239.69.1.83:10138
-#EXTINF:-1,广东卫视4K
+#EXTINF:-1 group-title="卫视",广东卫视4K
 http://192.168.5.1:7188/udp/239.69.2.27:11316
-#EXTINF:-1,广西卫视HD
+#EXTINF:-1 group-title="卫视",广西卫视HD
 http://192.168.5.1:7188/udp/239.69.1.191:10788
-#EXTINF:-1,贵州卫视HD
+#EXTINF:-1 group-title="卫视",贵州卫视HD
 http://192.168.5.1:7188/udp/239.69.1.150:10536
-#EXTINF:-1,海南卫视HD
+#EXTINF:-1 group-title="卫视",海南卫视HD
 http://192.168.5.1:7188/udp/239.69.1.151:10542
-#EXTINF:-1,河北卫视HD
+#EXTINF:-1 group-title="卫视",河北卫视HD
 http://192.168.5.1:7188/udp/239.69.1.157:10578
-#EXTINF:-1,河南卫视HD
+#EXTINF:-1 group-title="卫视",河南卫视HD
 http://192.168.5.1:7188/udp/239.69.1.168:10644
-#EXTINF:-1,黑龙江卫视HD
-http://192.168.5.1:7188/udp/239.253.157.138:8902
-#EXTINF:-1,湖北卫视HD
+#EXTINF:-1 group-title="卫视",湖北卫视HD
 http://192.168.5.1:7188/udp/239.253.157.115:8664
-#EXTINF:-1,湖北公共HD
-http://192.168.5.1:7188/udp/239.69.1.40:9880
-#EXTINF:-1,湖北教育HD
-http://192.168.5.1:7188/udp/239.69.1.206:10878
-#EXTINF:-1,湖北经视HD
-http://192.168.5.1:7188/udp/239.69.1.41:9886
-#EXTINF:-1,湖北垄上HD
-http://192.168.5.1:7188/udp/239.69.1.43:9898
-#EXTINF:-1,湖北生活HD
-http://192.168.5.1:7188/udp/239.69.1.205:10872
-#EXTINF:-1,湖北影视HD
-http://192.168.5.1:7188/udp/239.69.1.204:10866
-#EXTINF:-1,湖北综合HD
-http://192.168.5.1:7188/udp/239.69.1.42:9892
-#EXTINF:-1,湖南卫视HD
+#EXTINF:-1 group-title="卫视",湖南卫视HD
 http://192.168.5.1:7188/udp/239.253.157.139:8908
-#EXTINF:-1,浙江卫视HD
+#EXTINF:-1 group-title="卫视",浙江卫视HD
 http://192.168.5.1:7188/udp/239.253.157.143:8932
-#EXTINF:-1,江苏卫视HD
+#EXTINF:-1 group-title="卫视",江苏卫视HD
 http://192.168.5.1:7188/udp/239.253.157.144:8938
-#EXTINF:-1,怀旧剧场
-http://192.168.5.1:7188/udp/239.69.1.89:10174
-#EXTINF:-1,欢笑剧场4K
-http://192.168.5.1:7188/udp/239.69.2.5:11184
-#EXTINF:-1,黄石阳新新闻HD
-http://192.168.5.1:7188/udp/239.69.1.34:9844
-#EXTINF:-1,吉林卫视HD
+#EXTINF:-1 group-title="卫视",吉林卫视HD
 http://192.168.5.1:7188/udp/239.69.1.212:10914
-#EXTINF:-1,江西卫视HD
+#EXTINF:-1 group-title="卫视",江西卫视HD
 http://192.168.5.1:7188/udp/239.69.1.126:10394
-#EXTINF:-1,金色学堂HD
-http://192.168.5.1:7188/udp/239.69.2.13:11232
-#EXTINF:-1,金鹰纪实HD
-http://192.168.5.1:7188/udp/239.69.1.109:10292
-#EXTINF:-1,金鹰卡通HD
-http://192.168.5.1:7188/udp/239.69.1.248:11130
-#EXTINF:-1,九屏导视HD
-http://192.168.5.1:7188/udp/239.69.1.156:10572
-#EXTINF:-1,聚鲨环球精选
-http://192.168.5.1:7188/udp/239.69.2.14:11238
-#EXTINF:-1,卡酷少儿HD
-http://192.168.5.1:7188/udp/239.69.1.193:10800
-#EXTINF:-1,快乐垂钓HD
-http://192.168.5.1:7188/udp/239.69.1.142:10488
-#EXTINF:-1,老故事
-http://192.168.5.1:7188/udp/239.69.1.85:10150
-#EXTINF:-1,乐游HD
-http://192.168.5.1:7188/udp/239.69.2.12:11226
-#EXTINF:-1,梨园HD
-http://192.168.5.1:7188/udp/239.69.1.33:9838
-#EXTINF:-1,辽宁卫视HD
+#EXTINF:-1 group-title="卫视",辽宁卫视HD
 http://192.168.5.1:7188/udp/239.69.1.71:10066
-#EXTINF:-1,芒果1
+#EXTINF:-1 group-title="卫视",芒果1
 http://192.168.5.1:7188/udp/239.69.1.12:9712
-#EXTINF:-1,芒果2
+#EXTINF:-1 group-title="卫视",芒果2
 http://192.168.5.1:7188/udp/239.69.1.13:9718
-#EXTINF:-1,风云足球
-http://192.168.5.1:7188/udp/239.69.1.81:10126
-#EXTINF:-1,三沙卫视
+#EXTINF:-1 group-title="卫视",三沙卫视
 http://192.168.5.1:7188/udp/239.69.1.171:10662
-#EXTINF:-1,宁夏卫视HD
-http://192.168.5.1:7188/udp/239.69.2.33:11352
-#EXTINF:-1,青海卫视HD
-http://192.168.5.1:7188/udp/239.69.2.24:11298
-#EXTINF:-1,厦门卫视
+#EXTINF:-1 group-title="卫视",厦门卫视
 http://192.168.5.1:7188/udp/239.69.1.127:10400
-#EXTINF:-1,云南卫视HD
-http://192.168.5.1:7188/udp/239.69.2.25:11304
-#EXTINF:-1,新疆卫视HD
-http://192.168.5.1:7188/udp/239.69.2.30:11334
-#EXTINF:-1,西藏卫视HD
-http://192.168.5.1:7188/udp/239.69.2.31:11340
-#EXTINF:-1,山东教育卫视
+#EXTINF:-1 group-title="卫视",山东教育卫视
 http://192.168.5.1:7188/udp/239.69.1.228:11010
-#EXTINF:-1,山东卫视HD
+#EXTINF:-1 group-title="卫视",山东卫视HD
 http://192.168.5.1:7188/udp/239.69.1.69:10054
-#EXTINF:-1,深圳卫视4K
+#EXTINF:-1 group-title="卫视",深圳卫视4K
 http://192.168.5.1:7188/udp/239.69.2.28:11322
-#EXTINF:-1,生活时尚HD
-http://192.168.5.1:7188/udp/239.69.2.11:11220
-#EXTINF:-1,世界地理HD
-http://192.168.5.1:7188/udp/239.69.1.91:10186
-#EXTINF:-1,书画
-http://192.168.5.1:7188/udp/239.69.1.189:10776
-#EXTINF:-1,四川卫视HD
+#EXTINF:-1 group-title="卫视",四川卫视HD
 http://192.168.5.1:7188/udp/239.69.1.169:10650
-#EXTINF:-1,四海钓鱼
-http://192.168.5.1:7188/udp/239.69.1.244:11106
-#EXTINF:-1,天津卫视HD
+#EXTINF:-1 group-title="卫视",天津卫视HD
 http://192.168.5.1:7188/udp/239.69.1.68:10048
-#EXTINF:-1,文物宝库HD
+#EXTINF:-1 group-title="卫视",文物宝库HD
 http://192.168.5.1:7188/udp/239.69.1.46:9916
-#EXTINF:-1,武汉教育HD
-http://192.168.5.1:7188/udp/239.69.1.60:9994
-#EXTINF:-1,武术世界HD
-http://192.168.5.1:7188/udp/239.69.1.47:9922
-#EXTINF:-1,先锋乒羽
-http://192.168.5.1:7188/udp/239.69.1.143:10494
-#EXTINF:-1,新动漫
-http://192.168.5.1:7188/udp/239.69.1.187:10764
-#EXTINF:-1,央广购物HD
-http://192.168.5.1:7188/udp/239.69.2.1:11160
-#EXTINF:-1,央视台球HD
-http://192.168.5.1:7188/udp/239.69.1.98:10224
-#EXTINF:-1,优购物
-http://192.168.5.1:7188/udp/239.69.2.15:11244
-#EXTINF:-1,游戏风云HD
-http://192.168.5.1:7188/udp/239.69.2.8:11202
-#EXTINF:-1,中国交通HD
-http://192.168.5.1:7188/udp/239.69.2.3:11172
-#EXTINF:-1,中国教育1HD
-http://192.168.5.1:7188/udp/239.69.1.110:10298
-#EXTINF:-1,中国教育2
-http://192.168.5.1:7188/udp/239.69.1.183:10734
-#EXTINF:-1,中国教育4HD
-http://192.168.5.1:7188/udp/239.69.2.29:11328
-#EXTINF:-1,中华特产HD
-http://192.168.5.1:7188/udp/239.69.2.18:11262
-#EXTINF:-1,中学生HD
-http://192.168.5.1:7188/udp/239.69.2.17:11256
-#EXTINF:-1,重庆卫视HD
+#EXTINF:-1 group-title="卫视",重庆卫视HD
 http://192.168.5.1:7188/udp/239.69.1.149:10530
-#EXTINF:-1,优购物HD
+
+#EXTINF:-1 group-title="其它",凤凰中文HD
+http://192.168.5.1:7188/udp/239.69.2.20:11274
+#EXTINF:-1 group-title="其它",凤凰资讯HD
+http://192.168.5.1:7188/udp/239.69.2.19:11268
+#EXTINF:-1 group-title="其它",CHC动作电影HD
+http://192.168.5.1:7188/udp/239.69.1.242:11094
+#EXTINF:-1 group-title="其它",CHC家庭影院HD
+http://192.168.5.1:7188/udp/239.69.1.243:11100
+#EXTINF:-1 group-title="其它",CHC影迷电影HD
+http://192.168.5.1:7188/udp/239.69.1.241:11088
+#EXTINF:-1 group-title="其它",兵器科技HD
+http://192.168.5.1:7188/udp/239.69.1.79:10114
+#EXTINF:-1 group-title="其它",茶HD
+http://192.168.5.1:7188/udp/239.69.1.144:10500
+#EXTINF:-1 group-title="其它",第一剧场HD
+http://192.168.5.1:7188/udp/239.69.1.74:10084
+#EXTINF:-1 group-title="其它",动漫秀场HD
+http://192.168.5.1:7188/udp/239.69.2.6:11190
+#EXTINF:-1 group-title="其它",都市剧场HD
+http://192.168.5.1:7188/udp/239.69.2.4:11178
+#EXTINF:-1 group-title="其它",法治天地HD
+http://192.168.5.1:7188/udp/239.69.2.10:11214
+#EXTINF:-1 group-title="其它",风云音乐
+http://192.168.5.1:7188/udp/239.69.1.90:10180
+#EXTINF:-1 group-title="其它",高尔夫网球HD
+http://192.168.5.1:7188/udp/239.69.1.83:10138
+#EXTINF:-1 group-title="其它",怀旧剧场
+http://192.168.5.1:7188/udp/239.69.1.89:10174
+#EXTINF:-1 group-title="其它",欢笑剧场4K
+http://192.168.5.1:7188/udp/239.69.2.5:11184
+#EXTINF:-1 group-title="其它",金色学堂HD
+http://192.168.5.1:7188/udp/239.69.2.13:11232
+#EXTINF:-1 group-title="其它",金鹰纪实HD
+http://192.168.5.1:7188/udp/239.69.1.109:10292
+#EXTINF:-1 group-title="其它",金鹰卡通HD
+http://192.168.5.1:7188/udp/239.69.1.248:11130
+#EXTINF:-1 group-title="其它",九屏导视HD
+http://192.168.5.1:7188/udp/239.69.1.156:10572
+#EXTINF:-1 group-title="其它",聚鲨环球精选
+http://192.168.5.1:7188/udp/239.69.2.14:11238
+#EXTINF:-1 group-title="其它",卡酷少儿HD
+http://192.168.5.1:7188/udp/239.69.1.193:10800
+#EXTINF:-1 group-title="其它",快乐垂钓HD
+http://192.168.5.1:7188/udp/239.69.1.142:10488
+#EXTINF:-1 group-title="其它",老故事
+http://192.168.5.1:7188/udp/239.69.1.85:10150
+#EXTINF:-1 group-title="其它",乐游HD
+http://192.168.5.1:7188/udp/239.69.2.12:11226
+#EXTINF:-1 group-title="其它",梨园HD
+http://192.168.5.1:7188/udp/239.69.1.33:9838
+#EXTINF:-1 group-title="其它",风云足球
+http://192.168.5.1:7188/udp/239.69.1.81:10126
+#EXTINF:-1 group-title="其它",生活时尚HD
+http://192.168.5.1:7188/udp/239.69.2.11:11220
+#EXTINF:-1 group-title="其它",世界地理HD
+http://192.168.5.1:7188/udp/239.69.1.91:10186
+#EXTINF:-1 group-title="其它",书画
+http://192.168.5.1:7188/udp/239.69.1.189:10776
+#EXTINF:-1 group-title="其它",四海钓鱼
+http://192.168.5.1:7188/udp/239.69.1.244:11106
+#EXTINF:-1 group-title="其它",武汉教育HD
+http://192.168.5.1:7188/udp/239.69.1.60:9994
+#EXTINF:-1 group-title="其它",武术世界HD
+http://192.168.5.1:7188/udp/239.69.1.47:9922
+#EXTINF:-1 group-title="其它",先锋乒羽
+http://192.168.5.1:7188/udp/239.69.1.143:10494
+#EXTINF:-1 group-title="其它",新动漫
+http://192.168.5.1:7188/udp/239.69.1.187:10764
+#EXTINF:-1 group-title="其它",央广购物HD
+http://192.168.5.1:7188/udp/239.69.2.1:11160
+#EXTINF:-1 group-title="其它",央视台球HD
+http://192.168.5.1:7188/udp/239.69.1.98:10224
+#EXTINF:-1 group-title="其它",优购物
+http://192.168.5.1:7188/udp/239.69.2.15:11244
+#EXTINF:-1 group-title="其它",游戏风云HD
+http://192.168.5.1:7188/udp/239.69.2.8:11202
+#EXTINF:-1 group-title="其它",中国交通HD
+http://192.168.5.1:7188/udp/239.69.2.3:11172
+#EXTINF:-1 group-title="其它",中国教育1HD
+http://192.168.5.1:7188/udp/239.69.1.110:10298
+#EXTINF:-1 group-title="其它",中国教育2
+http://192.168.5.1:7188/udp/239.69.1.183:10734
+#EXTINF:-1 group-title="其它",中国教育4HD
+http://192.168.5.1:7188/udp/239.69.2.29:11328
+#EXTINF:-1 group-title="其它",中华特产HD
+http://192.168.5.1:7188/udp/239.69.2.18:11262
+#EXTINF:-1 group-title="其它",中学生HD
+http://192.168.5.1:7188/udp/239.69.2.17:11256
+#EXTINF:-1 group-title="其它",优购物HD
 http://192.168.5.1:7188/udp/239.69.1.65:10030
-#EXTINF:-1,襄阳综合HD
+
+#EXTINF:-1 group-title="湖北",湖北公共HD
+http://192.168.5.1:7188/udp/239.69.1.40:9880
+#EXTINF:-1 group-title="湖北",湖北教育HD
+http://192.168.5.1:7188/udp/239.69.1.206:10878
+#EXTINF:-1 group-title="湖北",湖北经视HD
+http://192.168.5.1:7188/udp/239.69.1.41:9886
+#EXTINF:-1 group-title="湖北",湖北垄上HD
+http://192.168.5.1:7188/udp/239.69.1.43:9898
+#EXTINF:-1 group-title="湖北",湖北生活HD
+http://192.168.5.1:7188/udp/239.69.1.205:10872
+#EXTINF:-1 group-title="湖北",湖北影视HD
+http://192.168.5.1:7188/udp/239.69.1.204:10866
+#EXTINF:-1 group-title="湖北",湖北综合HD
+http://192.168.5.1:7188/udp/239.69.1.42:9892
+#EXTINF:-1 group-title="湖北",黄石阳新新闻HD
+http://192.168.5.1:7188/udp/239.69.1.34:9844
+
+#EXTINF:-1 group-title="襄阳",襄阳综合HD
 http://192.168.5.1:7188/udp/239.69.1.158:10584
-#EXTINF:-1,襄阳经济HD
+#EXTINF:-1 group-title="襄阳",襄阳经济HD
 http://192.168.5.1:7188/udp/239.69.1.159:10590
-#EXTINF:-1,襄阳公共HD
+#EXTINF:-1 group-title="襄阳",襄阳公共HD
 http://192.168.5.1:7188/udp/239.69.1.160:10596
-#EXTINF:-1,襄阳枣阳综合
+#EXTINF:-1 group-title="襄阳",襄阳枣阳综合
 http://192.168.5.1:7188/udp/239.69.1.227:11004
-#EXTINF:-1,襄阳谷城综合
+#EXTINF:-1 group-title="襄阳",襄阳谷城综合
 http://192.168.5.1:7188/udp/239.69.1.44:9904
-#EXTINF:-1,襄阳老河口综合
+#EXTINF:-1 group-title="襄阳",襄阳老河口综合
 http://192.168.5.1:7188/udp/239.69.1.120:10358
-#EXTINF:-1,襄阳南漳综合
+#EXTINF:-1 group-title="襄阳",襄阳南漳综合
 http://192.168.5.1:7188/udp/239.69.1.161:10602
